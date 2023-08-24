@@ -11,7 +11,7 @@ export default defineConfig({
     deps: {
       optimizer: {
         web: {
-          include: ['feelin', 'feelers'],
+          include: ['bpmn-js-properties-panel'],
         },
       },
     },
